@@ -1,5 +1,5 @@
 ### Olá 👋	
-Carlos Eduardo Ferreira Pereira, desenvolvedor FullStack desde 2006.	
+Sou Carlos Eduardo Ferreira Pereira, desenvolvedor FullStack desde 2006.	
 <div align="center">	
   <a href="https://github.com/eduardoferreira81">	
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoferreira81&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>	
